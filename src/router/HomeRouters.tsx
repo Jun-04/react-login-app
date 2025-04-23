@@ -2,6 +2,7 @@ import { Home } from "../components/page/Home";
 import { UserManagement } from "../components/page/UserManagement";
 import { Setting } from "../components/page/Setting";
 import { Page404 } from "../components/page/Page404";
+
 export const homeRoutes = [
     {
         path: "/",
